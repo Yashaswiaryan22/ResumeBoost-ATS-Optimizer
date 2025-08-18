@@ -39,7 +39,7 @@ This project is an AI-powered resume optimization tool that analyzes your resume
 
 1. Clone the repository from one of these:  
    
-   [GitHub]()
+   [GitHub](https://github.com/Yashaswiaryan22)
    
    [Colab](https://drive.google.com/file/d/1e6AmndI0NMJVTkNHyp4FViRIt3bEKyfh/view?usp=drive_link)
    
