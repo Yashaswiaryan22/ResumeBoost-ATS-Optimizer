@@ -39,7 +39,7 @@ This project is an AI-powered resume optimization tool that analyzes your resume
 
 1. Clone the repository from one of these:  
    
-   [GitHub](https://github.com/Prabhakarrayal/ats-resume-optimizer)
+   [GitHub]()
    
    [Colab](https://drive.google.com/file/d/1e6AmndI0NMJVTkNHyp4FViRIt3bEKyfh/view?usp=drive_link)
    
@@ -71,9 +71,7 @@ Support multiple resume file formats (PDF parsing, etc.)
 Add tone and confidence analysis for interview preparation
 
 ## ✍️ Author
-Prabhakar Rayal
-B.Tech CSE | Graphic Era Hill University
-📍 Rishikesh, Uttarakhand, India
+Yashaswi Aryan
+B.Tech CSE | Tula's Institute Dehradun
+📍 Dehradun, Uttarakhand
 
-[GitHub Profile](https://github.com/Prabhakarrayal), 
-[LinkedIn Profile](https://in.linkedin.com/in/prabhakar-rayal-6639682)
